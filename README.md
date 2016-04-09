@@ -1,0 +1,2 @@
+# Order/Chaos
+Order/Chaos is a simple perfect information game based somewhat on tic-tac-toe/connect 4. Each player embodies either __Order__ or __Chaos__ and takes turns placing white or black stones on the (6x6) game board. __Order__ attempts to have 5 stones of the same color in a row. __Chaos__ attempts to prevent this until the board is full with 36 stones.
